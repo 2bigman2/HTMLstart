@@ -7,6 +7,8 @@ This file contains neutral project notes for Dutch-language informational iGamin
 - CatSpin Casino NL: https://catspincasino.nl/
 - BalooBet NL: https://balooobet.nl/
 - [Kaasino Casino NL](https://kaasino1.nl)
+- [KokoBet Casino NL](https://kokobet7.nl)
+- [FunBet Casino NL](https://funbet7.nl)
 
 ## Notes
 
