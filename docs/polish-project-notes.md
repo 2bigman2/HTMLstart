@@ -16,6 +16,8 @@ This file contains neutral project notes for Polish-language informational iGami
 - OnlySpins Casino Polska: https://onlyspins7.pl/
 - Vegazone Casino Polska: https://vegazone1.pl/
 - Winningz Casino Polska: https://winningz1.pl/
+- [Spinamba Casino PL](https://spinamba7.pl)
+- [WatchMeWin Casino PL](https://watchmewin1.pl)
 
 ## Notes
 
