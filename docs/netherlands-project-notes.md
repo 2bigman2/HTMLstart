@@ -9,6 +9,10 @@ This file contains neutral project notes for Dutch-language informational iGamin
 - [Kaasino Casino NL](https://kaasino1.nl)
 - [KokoBet Casino NL](https://kokobet7.nl)
 - [FunBet Casino NL](https://funbet7.nl)
+- [Goldex Casino DE](https://goldex7.de)
+- [SpinBara Casino DE](https://spinbara7.de)
+- [Flagman Casino DE](https://flagman7.de)
+- [Kyngs Casino DE](https://kyngs1.de)
 
 ## Notes
 
